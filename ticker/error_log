@@ -1,0 +1,84 @@
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 8
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Warning:  file(/colors.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 9
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 12
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: width in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 121
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 121
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 124
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: scamount in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 125
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: scdelay in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 125
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 129
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Warning:  file(/news.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 131
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 137
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 175
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 175
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 176
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 176
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 177
+[15-Feb-2018 22:40:23 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/HHNT_1_0/hhnt.php on line 178
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 8
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Warning:  file(/colors.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 9
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 12
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: width in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 124
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: scamount in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: scdelay in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 129
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Warning:  file(/news.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 131
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 137
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 177
+[15-Feb-2018 22:48:24 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 178
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 8
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Warning:  file(/colors.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 9
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 12
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: width in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 124
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: scamount in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: scdelay in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 129
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Warning:  file(/news.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 131
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 137
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 177
+[15-Feb-2018 22:49:11 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 178
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 8
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Warning:  file(/colors.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 9
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 12
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: width in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 124
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: scamount in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: scdelay in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 129
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Warning:  file(/news.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 131
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 137
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 177
+[15-Feb-2018 23:05:39 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 178
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 8
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Warning:  file(/colors.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 9
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 12
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: width in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 121
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 124
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: scamount in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: scdelay in /home/gistabo1/public_html/ticker/hhnt.php on line 125
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: hm in /home/gistabo1/public_html/ticker/hhnt.php on line 129
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Warning:  file(/news.txt): failed to open stream: No such file or directory in /home/gistabo1/public_html/ticker/hhnt.php on line 131
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/gistabo1/public_html/ticker/hhnt.php on line 137
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 175
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: height in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: bgcol in /home/gistabo1/public_html/ticker/hhnt.php on line 176
+[15-Feb-2018 23:08:25 Africa/Lagos] PHP Notice:  Undefined variable: fsize in /home/gistabo1/public_html/ticker/hhnt.php on line 177
