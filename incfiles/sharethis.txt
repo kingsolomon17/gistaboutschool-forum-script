@@ -1,0 +1,3 @@
+<?php
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5a8bedbed57467001383cc97&product=sop' async='async'></script>
+?>

@@ -1,0 +1,11 @@
+[25-Nov-2017 17:49:57 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[25-Nov-2017 17:50:00 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[25-Nov-2017 17:50:03 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[04-Dec-2017 20:00:29 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[04-Dec-2017 20:00:33 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[07-Dec-2017 11:05:23 Africa/Lagos] PHP Fatal error:  Class 'core' not found in /home/gistabo1/public_html/incfiles/upload.php on line 3
+[16-Dec-2017 16:24:42 Africa/Lagos] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/gistabo1/public_html/incfiles/head.php on line 16
+[16-Dec-2017 16:24:42 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gistabo1/public_html/incfiles/head.php on line 16
+[16-Dec-2017 16:24:42 Africa/Lagos] PHP Notice:  Undefined variable: pagetitle in /home/gistabo1/public_html/incfiles/head.php on line 18
+[16-Dec-2017 16:24:42 Africa/Lagos] PHP Notice:  Undefined variable: config in /home/gistabo1/public_html/incfiles/head.php on line 19
+[16-Dec-2017 16:24:42 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/gistabo1/public_html/incfiles/head.php on line 19
