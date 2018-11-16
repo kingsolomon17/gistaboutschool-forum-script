@@ -1,0 +1,3 @@
+[19-Dec-2017 18:41:51 Africa/Lagos] PHP Warning:  require(incfiles/init.php): failed to open stream: No such file or directory in /home/gistabo1/public_html/icons/other.php on line 2
+[19-Dec-2017 18:41:51 Africa/Lagos] PHP Warning:  require(incfiles/init.php): failed to open stream: No such file or directory in /home/gistabo1/public_html/icons/other.php on line 2
+[19-Dec-2017 18:41:51 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'incfiles/init.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gistabo1/public_html/icons/other.php on line 2
