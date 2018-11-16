@@ -1,0 +1,195 @@
+﻿h1, h2, h3, h4, form, div, p, img { padding: 0; margin: 0; }
+
+h1, h2, h3, h4, h5 { color:#200; font-family: tahoma, verdana, sans-serif; }
+
+p{ margin: 6px 0 0 0}
+
+table { border-spacing: 0; border: 0; margin:0px; width:100%; padding:5px}
+
+div.body {max-width:1024px; margin: 0px auto; width:100%}
+
+th, td { padding: 8px;
+         background: #E8ECE0;
+         text-align: center;
+         border: 1px solid #444;
+         border-bottom-width: 0px;
+         overflow:hidden;
+}
+/*th, td { background: #F8F8F6 }*/
+
+tr:first-child td, tr:first-child th {
+    border-top-left-radius: 12px; border-top-right-radius: 12px;
+}
+tr:last-child td {
+    border-bottom: 1px solid #444;
+    border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;
+}
+td.w, tr.w { background: #F6F6EC;}
+/*td.w, tr.w { background: #FFFFFB;}*/
+td.pd {border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;}
+td.pu {border-top-left-radius: 12px; border-top-right-radius: 12px;}
+
+div.ratatal{float: left; margin: -6px 0 -6px -6px}
+div.ratatar{float: right; margin: -6px -6px -6px 0}
+
+form.inline { display: inline }
+
+img.img { padding:0; margin:0;}
+@media screen and (max-width: 9999px){ img.img, div.narrow { max-width:  976px }}
+@media screen and (max-width: 1024px){ img.img, div.narrow { max-width:  976px }}
+@media screen and (max-width:  768px){ img.img, div.narrow { max-width:  688px }}
+@media screen and (max-width:  640px){ img.img, div.narrow { max-width:  608px }}
+@media screen and (max-width:  480px){ img.img, div.narrow { max-width:  448px }}
+@media screen and (max-width:  360px){ img.img, div.narrow { max-width:  328px }}
+@media screen and (max-width:  320px){ img.img, div.narrow { max-width:  288px }}
+@media screen and (max-width:  240px){ img.img, div.narrow { max-width:  208px }}
+
+#postform input[type=text], #postform textarea {
+    min-width: 80px; margin: 0px auto; width: 100%;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+     box-sizing: border-box;
+}
+
+td.grad, .grad { background-color: #F6F6EC; margin: 8px}
+/*td.grad, .grad { background-color: #FFFFF8; }*/
+
+.grad input[type=text], input[type=text].central {  margin: 0px auto; min-width: 90px; width: 70%;}
+
+body, td, th, div, button.button-link, input, textarea {
+    font-family: verdana, sans-serif; font-size: 10pt; margin: 0px;
+}
+body { text-align: center; background: url('/static/bg3.png') repeat; }
+
+div.container {
+    max-width: 1024px; margin-left: auto; margin-right: auto; padding: 6px; background-color: #fff;
+    border-left: 1px solid gray; border-right: 1px solid gray;
+}
+
+a { color:#181855; text-decoration: underline;}
+a:hover { color:#FFF; background-color:#114; text-decoration: none}
+a.awoof:hover {background-color: transparent;}
+a.m, .m { color: #44b; }
+a.f, .f { color: #b4b; }
+a.user, .user a, .featured td { color:#551818; }
+td.homeuser, td.homeuser a, td.homeuser span, div.sig{font-size: 8.5pt;}
+td.homeuser h3 { font-size: 12.5pt; color:#000}
+td.homeuser a {color:#551818}
+td.featured { color:#551818}
+a:visited img.nnn {display: none}
+
+.s { font-size: 8.5pt; color:#555518 }
+.s a {font-size: 8.5pt; color:#551818 }
+.b { font-size: 11.5pt; }
+.g { color:#185518; }
+
+.u { font-weight: normal }
+.bl{ background-color: #6B8EAE}
+.button-link { border: none; background-color: transparent; text-decoration: underline; cursor: pointer; padding: 0; }
+td.l, .l {text-align: left}
+td.friends { padding-top: 0px; padding-bottom: 0px; }
+td.messages { padding-left: 20px; }
+td.gr, td.gr span, td.gr a { color: grey }
+.friend {border:1px solid #999100; padding:4px; white-space: nowrap; background-color: white}
+.friend a {text-decoration: none}
+
+.highlight {font-weight: bold; font-size:12.5pt; background-color: yellow}
+
+span.bold a, p.bold a, a.bold, td.bold a {font-weight: bold}
+
+span.eb img {background-image:url("/icons/bg.gif");
+  background-repeat: no-repeat; width:23px; height:22px;}
+span.eb:hover img {background-image:url("/icons/hoverbg.gif");}
+
+img.smiley {width:15px; height:15px}
+
+blockquote{margin: 1px; background-color: #CBD8BF; border: 1px black solid; padding: 6px; border-radius: 6px}
+.small, td.small{font-size:8.5pt}
+td.sig{padding:3px 6px 5px 6px; font-size:8.5pt; color:grey}
+.upd {background: #993; padding:1px}
+.frupd {background: #399; padding:1px}
+
+div.narrow {margin: 0px auto 0px 0px;}
+
+iframe.youtube { width: 420px; height: 280px; max-width: 92%}
+
+.noisy { color: #b00; font-weight: bold}
+
+.pushleft{margin: 0px 0px 0px -8px}
+.pushleft2{margin: 0px 0px 0px -2px}
+
+.ratatal div, .ratatar div {padding: 3px 8px 0px 8px;}
+.manual{margin: 0 -8px}
+.manual span {padding-left: 6px; padding-right: 6px}
+.ratatal img, .ratatar img, .manual img {width:154px; height:95px; border-style: none; margin-bottom:6px} /*width:160px; height:99px; */
+.ratatal a, .ratatar a, .manual a, div.ratatam a {border:none; outline:none; padding:0px; margin:0px}
+
+p.nocopy {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	/* user-select: none;*/
+}
+
+
+div.webdesigners {margin: 0px auto; padding: 0px; max-width: 850px;}
+div.webdesigners img { margin: 6px; padding: 0px; width: 154px; height:95px; background: url('/static/white.png') no-repeat;}
+@media screen and (max-width: 320px) { 
+	div.webdesigners {margin: 0px 0px;} 
+	div.webdesigners img {margin: 2px 2px}
+}
+
+div.ratatam {margin: 0px auto; padding: 0px; max-width: 1000px;}
+div.ratatam img {border-style:none; margin: 4px; padding: 0px; width: 154px; height:95px; background: url('/static/white.png') no-repeat;}
+
+div.ratatamp img {border: 1px solid #000; margin: 4px 8px; padding: 0px; width: 318px; height:106px; background: url('/static/white.png') no-repeat;}
+
+@media screen and (max-width: 1024px) {
+	div.ratatamp img {margin: 4px 3px}
+}
+
+@media screen and (max-width: 360px) { 
+	div.ratatamp img {margin: 4px -8px}
+}
+.campaign_stats span, .ad_details span{
+ 	margin-right: .5%;
+}
+.green{
+	color: green;
+}
+.orange{
+	color: orange;
+}
+.red{
+	color: red;
+}
+.blackborder{
+    border: 1px solid #000;
+    padding: 0;
+}
+.expansible_input{
+    width: 40%;
+}
+div.display{
+background: #E8ECE0;
+text-align: center;
+border: 1px solid #444;
+padding: 5px;
+margin: 5px;
+overflow:hidden;
+}
+
+.msg{
+padding: 8px;
+background: green;
+text-align: center;
+border: 1px solid #444;
+margin: 0px;
+overflow:hidden;
+}
+.msg .error
+{
+background: red;
+}
